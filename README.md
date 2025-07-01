@@ -36,3 +36,12 @@ Each segment is modeled using basic geometric shapes (boxes and cylinders) and c
 - **Department**: Computer Science 
 - **Project Type**: Summer Training Task  
 - **Year**: 2025
+
+---
+
+## Project Screenshot
+
+Below is a screenshot of the final 3D model of the robotic arm created in Tinkercad:
+
+![Robotic Arm Screenshot](./robotic-arm.png)
+
