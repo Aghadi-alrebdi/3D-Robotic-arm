@@ -33,8 +33,7 @@ Each segment is modeled using basic geometric shapes (boxes and cylinders) and c
 
 - **Student Name**:  Aghadi Saleh Al-rebdi
 - **University**: Qassim University  
-- **Department**: Computer Science 
-- **Project Type**: Summer Training Task  
+- **Department**: Computer Science   
 - **Year**: 2025
 
 ---
