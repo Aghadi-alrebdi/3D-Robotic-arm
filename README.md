@@ -1,4 +1,4 @@
-# Mechanical-engineering
+# Mechanical-Engineering
 
 ## Project Title
 **Design of a 5-Degree-of-Freedom Robotic Arm in Tinkercad**
