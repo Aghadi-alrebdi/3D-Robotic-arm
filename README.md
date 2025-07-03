@@ -31,7 +31,7 @@ Each segment is modeled using basic geometric shapes (boxes and cylinders) and c
 
 ## Created By
 
-- **Student Name**:  Aghadi Saleh Al-rebdi
+- **Creator Name**:  Aghadi Saleh Al-rebdi
 - **University**: Qassim University  
 - **Department**: Computer Science   
 - **Year**: 2025
