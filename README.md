@@ -29,18 +29,15 @@ Each segment is modeled using basic geometric shapes (boxes and cylinders) and c
 
 ---
 
-## Created By
-
-- **Creator Name**:  Aghadi Saleh Al-rebdi
-- **University**: Qassim University  
-- **Department**: Computer Science   
-- **Year**: 2025
-
----
-
 ## Project Screenshot
 
 Below is a screenshot of the final 3D model of the robotic arm created in Tinkercad:
 
 ![Robotic Arm Screenshot](./robotic-arm.png)
 
+---
+
+## Created By  
+- **Name**: Aghadi Saleh Al-rebdi   
+- **Department**: Computer Science  
+- **Year**: 2025  
